@@ -1,0 +1,3 @@
+> Blockquote [foo].
+>
+> [foo]: /url
